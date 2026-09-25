@@ -17,14 +17,14 @@
 
 ```
 [BƯỚC 1: RADAR QUÉT XU HƯỚNG & BỘ LỌC ĐỘT BIẾN]
-  ├── Quét toàn mạng (YouTube, Reddit, X, RedNote / Xiaohongshu, Web) theo Từ khóa / Chủ đề
+  ├── Quét đa nền tảng (Hệ sinh thái 16 kênh: YouTube, Reddit, X, RedNote, TikTok, Bilibili, LinkedIn, GitHub...)
   ├── Đo lường: Chủ đề có đang TĂNG SỰ CHÚ Ý không? (Breakout vs Fading)
   └── Mổ xẻ: "Kênh bé ăn view to" (Multiplier) & Đối thủ Copy hay Remix?
             │
             ▼ (Người dùng chọn ra 2 - 3 chủ đề tiềm năng nhất)
 [BƯỚC 2: X-RAY ĐÀO SÂU TÂM LÝ KHÁN GIẢ]
   ├── Cào bình luận: Bóc tách Nỗi đau, Thắc mắc, Tranh cãi nảy lửa
-  └── Dữ liệu cứng: Độ tuổi & Sở thích (Meta Insights / TikTok Creative Center)
+  └── Dữ liệu cứng: Độ tuổi & Sở thích (Meta Insights / TikTok Creative Center / Audience Data)
             │
             ▼ (Người dùng chốt 1 chủ đề duy nhất để sản xuất)
 [BƯỚC 3: XUẤT THÀNH PHẨM THEO ĐỊNH DẠNG YÊU CẦU]
@@ -40,7 +40,14 @@
 
 ### GIAI ĐOẠN 1: RADAR QUÉT XU HƯỚNG & BỘ LỌC ĐỘT BIẾN
 
-Người dùng cung cấp **Từ khóa / Chủ đề** (hoặc một danh sách từ khóa thô). Hệ thống quét dữ liệu đa nền tảng và xuất báo cáo theo bảng 8 cột chuẩn:
+Hệ thống triển khai quét đồng thời trên **hệ sinh thái 16 kênh dữ liệu** được chia thành 5 nhóm chuyên biệt:
+* **🎬 Nhóm Video & Visual động:** YouTube, TikTok / Douyin, Bilibili.
+* **💬 Nhóm Tranh luận & Trào lưu nóng:** Reddit, X (Twitter), Facebook Groups, Threads.
+* **🎨 Nhóm Infographic, Carousel & Thị trường Á Đông:** Xiaohongshu (RedNote / 小红书), Instagram.
+* **💼 Nhóm Chuyên môn sâu, Tech & Việc làm:** LinkedIn, GitHub Trending, V2EX.
+* **🎙️ Nhóm Âm thanh & Báo chí:** Podcasts (Xiaoyuzhou / Spotify), RSS Feeds, Web News toàn cầu.
+
+Người dùng cung cấp **Từ khóa / Chủ đề**, hệ thống quét và trả về báo cáo theo bảng 8 cột chuẩn:
 
 | Cột thông tin | Ý nghĩa & Tiêu chuẩn đánh giá |
 | :--- | :--- |
