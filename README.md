@@ -100,10 +100,19 @@ Hệ thống xuất bản hoàn chỉnh theo đúng định dạng được yêu
 * **Hook Câu chuyện tò mò:** Dẫn dắt bằng một bí mật, nghịch lý hoặc case study kỳ lạ.
 
 #### 2. Kịch bản chi tiết theo định dạng lựa chọn
+
+##### 🌟 TÙY CHỌN ĐỘT PHÁ: "1-to-4 Multi-Angle Matrix" (Ma trận 4 góc nhìn)
+Khi chốt 1 chủ đề, hệ thống có thể tự động bẻ lái thành **4 kịch bản đối lập** cho 4 tệp tâm lý khán giả:
+1. **Góc Thực chiến (Actionable / How-to):** Hướng dẫn từng bước làm ngay trong 5 phút.
+2. **Góc Phản biện (Contrarian / Debunking):** "Tại sao 90% mọi người đang hiểu sai về [X]?" (Gây bão tranh cãi).
+3. **Góc Câu chuyện (Storytelling / Case Study):** Kể chuyện nhân vật lội ngược dòng thực tế.
+4. **Góc Cảnh báo rủi ro (Fear & Red Flags):** "3 cái bẫy chết người khi tự làm [X]".
+
+##### CÁC ĐỊNH DẠNG ĐƠN LẺ:
 * **Nếu chọn Video Ngắn (Shorts/Reels/TikTok):** Bảng 4 cột chuẩn sản xuất: `Mốc thời gian (0-3s, 3-15s...)` | `Thị giác & Góc quay (Visual)` | `Lời thoại chi tiết (Voice)` | `Hiệu ứng âm thanh (Sound design)`.
 * **Nếu chọn Video Dài (YouTube):** Dàn ý chi tiết từng mốc thời gian kèm số liệu dẫn chứng và case study minh họa.
 * **Nếu chọn Bài Post (Facebook/LinkedIn):** Cấu trúc chuẩn: Hook $\rightarrow$ Nỗi đau thị trường $\rightarrow$ Giải pháp 3 bước $\rightarrow$ Lời kêu gọi hành động (CTA).
-* **Nếu chọn Carousel (Slide ảnh trượt):** Chia chi tiết từ **Slide 1 đến Slide 6 - 8** (Slide bìa giữ chân, các slide nội dung súc tích < 30 chữ, slide cuối kêu gọi hành động).
+* **Nếu chọn Carousel (Slide ảnh trượt):** Tự động bóc tách từ Slide 1 đến Slide 6-8 và có thể xuất thẳng thành ảnh PNG chuẩn 4:5 qua bộ công cụ render đi kèm trong thư mục `scripts/render_carousel.js`.
 
 #### 3. Bộ Caption & Hashtags chuẩn SEO + AEO
 * **Chuẩn SEO (Search Engine Optimization):** Chứa các từ khóa tìm kiếm phổ biến để video/bài viết leo top tìm kiếm trên TikTok, YouTube, Facebook, Google.
