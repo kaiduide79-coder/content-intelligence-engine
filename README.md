@@ -47,6 +47,16 @@ Hệ thống triển khai quét đồng thời trên **hệ sinh thái 16 kênh 
 * **💼 Nhóm Chuyên môn sâu, Tech & Việc làm:** LinkedIn, GitHub Trending, V2EX.
 * **🎙️ Nhóm Âm thanh & Báo chí:** Podcasts (Xiaoyuzhou / Spotify), RSS Feeds, Web News toàn cầu.
 
+#### 🔐 BẢNG MỨC ĐỘ TRUY CẬP & YÊU CẦU ĐĂNG NHẬP (CHANNEL ACCESS MATRIX)
+
+| Cấp độ truy cập | Nền tảng hỗ trợ | Môi trường chạy | Yêu cầu đăng nhập |
+| :---: | :--- | :---: | :---: |
+| 🟢 **MỨC 1: Tự do 100%** | YouTube, Bilibili, GitHub, RSS Feeds, V2EX, Web News | Chạy ngầm trong Terminal (CLI / API) | ❌ Không cần tài khoản |
+| 🟡 **MỨC 2: Cần Browser** | Reddit, TikTok (Web) | Cần mở trình duyệt Chrome | ❌ Không bắt buộc tài khoản |
+| 🔴 **MỨC 3: Cần Phiên Đăng nhập** | RedNote (Xiaohongshu), X (Twitter), Facebook, Instagram, LinkedIn | Mở Chrome đã đăng nhập sẵn tài khoản |  Cần đăng nhập 1 lần trên Chrome |
+
+*💡 Cơ chế cảnh báo tự động: Khi quét vào các kênh Mức 3, nếu phát hiện phiên đăng nhập hết hạn, hệ thống sẽ tự động bật thông báo hướng dẫn người dùng mở Chrome đăng nhập lại.*
+
 Người dùng cung cấp **Từ khóa / Chủ đề**, hệ thống quét và trả về báo cáo theo bảng 8 cột chuẩn:
 
 | Cột thông tin | Ý nghĩa & Tiêu chuẩn đánh giá |
