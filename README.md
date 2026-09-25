@@ -17,7 +17,7 @@
 
 ```
 [BƯỚC 1: RADAR QUÉT XU HƯỚNG & BỘ LỌC ĐỘT BIẾN]
-  ├── Quét toàn mạng (YouTube, Reddit, X, Web) theo Từ khóa / Chủ đề
+  ├── Quét toàn mạng (YouTube, Reddit, X, RedNote / Xiaohongshu, Web) theo Từ khóa / Chủ đề
   ├── Đo lường: Chủ đề có đang TĂNG SỰ CHÚ Ý không? (Breakout vs Fading)
   └── Mổ xẻ: "Kênh bé ăn view to" (Multiplier) & Đối thủ Copy hay Remix?
             │
@@ -104,3 +104,21 @@ Hệ thống xuất bản hoàn chỉnh theo đúng định dạng được yêu
 
 ---
 *Quy trình hoạt động độc lập và hoàn toàn tổng quát — người dùng chỉ cần đưa từ khóa của bất kỳ ngành nghề nào vào Giai đoạn 1 là hệ thống sẽ tự động vận hành.*
+
+---
+
+## 🚀 HƯỚNG DẪN SỬ DỤNG CHO NGƯỜI ĐƯỢC CHIA SẺ
+
+### 🔹 Cách 1: Sử dụng ngay với ChatGPT / Claude / Gemini (Không cần cài đặt công cụ)
+1. Bấm nút **Copy raw text** toàn bộ nội dung file này.
+2. Dán vào cuộc trò chuyện mới với AI kèm câu lệnh:
+   > *"Hãy đóng vai Hệ thống Tình báo Nội dung theo đúng quy trình trong file này. Tôi muốn bắt đầu từ Giai đoạn 1 với chủ đề / từ khóa: [Điền từ khóa của bạn]"*
+3. AI sẽ tự động kích hoạt vai trò 3 phòng ban và dẫn dắt bạn qua từng giai đoạn để ra kịch bản hoàn chỉnh.
+
+### 🔹 Cách 2: Cho Tech Builder & Developer (Tự động hóa cào dữ liệu qua CLI)
+* Clone repo này về máy:
+  ```bash
+  git clone https://github.com/kaiduide79-coder/content-intelligence-engine.git
+  ```
+* Tích hợp cùng các công cụ cào tự động (`OpenCLI`, `Agent-Reach`) để cấp quyền cho AI tự động quét số liệu thời gian thực từ YouTube, Reddit, X và RedNote.
+
